@@ -1,7 +1,7 @@
 tjson
 =====
 
-This is an demo erlang project that uses hamler dependencies.
+This is a demo erlang project that uses hamler dependencies.
 
 See the rebar.config for details.
 
@@ -17,3 +17,4 @@ Build
     or
     
     $ rebar3 hamler repl
+
